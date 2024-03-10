@@ -7,6 +7,6 @@ print(age)
 
 # cadidate eligible for voting cheking
 if age >18:
-    print("Yoy are eligible for vote!")
+    print("You are eligible for vote!")
 else:
-    print(" Ho Sorry your are not eligible for vote!")
+    print("Ho Sorry your are not eligible for vote!")
