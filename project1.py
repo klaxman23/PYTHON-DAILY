@@ -5,6 +5,7 @@ age = int(input("Enter your age: "))
 print(name)
 print(age)
 
+# cadidate eligible for voting cheking
 if age >18:
     print("Yoy are eligible for vote!")
 else:
