@@ -9,6 +9,5 @@ p1 = Person("john",23)
 p2 = Person("Mohan",26)
 p3 = Person("Sankar",21)
 
-print(p2.name,p2.age)
-print(p1.name,p1.age)
-print(p3.name,p3.age)
+print(p2.name)
+print(p2.age)
