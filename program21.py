@@ -1,5 +1,5 @@
 def say_hello(user_name,user_age):
+    print("Your name " + user_name + ", your age  " + str(user_age))
     
-    print("Hello "  + user_name + ", you are " +  str(user_age))
-    
-say_hello("Bob", 45)
+say_hello('Shyam',34)
+say_hello('Mohan',31)
