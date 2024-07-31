@@ -17,4 +17,18 @@ print(thisset)
 thisset.discard("grapess")
 print(thisset)
 
+#we can use pop() method
+thisset = {"apple", "banana", "cherry"}
+
+x = thisset.pop()
+
+print(thisset) 
+
+#we can use clear method
+
+thisset = {"apple", "banana", "cherry"}
+
+thisset.clear()
+
+print(thisset)
 
