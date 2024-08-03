@@ -29,4 +29,23 @@ for x in fruits:
   print(x)
 ############################
 
+for i in range(1,6):
+    if i==3: break
+    print(i)
+else:
+    print("Finally finished!!")
     
+########################################
+#Write a program fo continue the loop.
+adj = ["red", "big", "tasty"]
+fruits = ["apple", "banana", "cherry"]
+
+for i in adj:
+    for j in fruits:
+        print(i,j)
+        
+#######################################
+
+
+for i in [1,2,3]:
+    pass   
