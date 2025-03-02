@@ -1,6 +1,3 @@
-def my_function(fname,lname):
-    
-    print(fname + " " + lname)
-    
-
-my_function("Laxman" , "gbs")
+with open ("newfile.txt", "r") as file:
+    content = file.read()
+    print(content)
